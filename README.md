@@ -16,3 +16,5 @@ yu6ix 2024
 
 Warning: Do not run this on your Host PC, only run this on a Virtual Machine!
 The Creator is not responsible for Any Damage!
+
++++ This Project is licensed with APGL 3.0 +++
