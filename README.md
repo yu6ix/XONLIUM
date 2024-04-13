@@ -3,7 +3,7 @@
 
 Coded in Python 3.12
 
-Compatible with Windows 7 +
+Compatible with Windows 8 + (Tested on Windows 10)
 
 Written in 38 Lines of Code!
 
